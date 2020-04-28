@@ -6,8 +6,7 @@
 
 body {
   background: #DA4453;
-  background: -webkit-linear-gradient(to right, #89216B, #DA4453); 
-  background: linear-gradient(to right, #89216B, #DA4453); 
+  background: linear-gradient(to right, #89216B, #DA4453);
 }
 
 .container {
@@ -31,10 +30,9 @@ body {
   border: thick double #fff;
   border-radius: 15px;
   object-fit: cover;
-  background-color: rgba(255, 255, 255, .2);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .valk_img {
   height: 100%;
 }
-
