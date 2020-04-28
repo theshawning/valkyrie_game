@@ -1,6 +1,6 @@
 export const valkyries = [
   {
-    id: 1,
+    id: 0,
     name: 'Bronya Zaychik',
     battlesuits: [
       {
@@ -34,7 +34,7 @@ export const valkyries = [
     ]
   },
   {
-    id: 2,
+    id: 1,
     name: 'Durandal',
     battlesuits: [
       {
@@ -48,7 +48,7 @@ export const valkyries = [
     ]
   },
   {
-    id: 3,
+    id: 2,
     name: 'Fu Hua',
     battlesuits: [
       {
@@ -71,6 +71,54 @@ export const valkyries = [
         suit_name: 'Azure Empyrea',
         imgUrl: './assets/hi3-valk/fu-hua/fu-hua-azure-empyrea.png'
       }
+    ]
+  },
+  {
+    id: 3,
+    name: 'Murata Himeko',
+    battlesuits: [
+      {
+        suit_name: 'Battle Storm',
+        imgUrl: './assets/hi3-valk/himeko/himeko-battle-storm.png'
+      },
+      {
+        suit_name: 'Valkyrie Triumph',
+        imgUrl: './assets/hi3-valk/himeko/himeko-valkyrie-triumph.png'
+      },
+      {
+        suit_name: 'Scarlet Fusion',
+        imgUrl: './assets/hi3-valk/himeko/himeko-scarlet-fusion.png'
+      },
+      {
+        suit_name: 'Blood Rose',
+        imgUrl: './assets/hi3-valk/himeko/himeko-blood-rose.png'
+      },
+      {
+        suit_name: 'Arctic Kriegsmesser',
+        imgUrl: './assets/hi3-valk/himeko/himeko-arctic-kriegsmesser.png'
+      },
+      {
+        suit_name: 'Vermilion Knight - Eclipse',
+        imgUrl: './assets/hi3-valk/himeko/himeko-vermilion-knight-eclipse.png'
+      }
+    ]
+  },
+  {
+    id: 4,
+    name: 'Kallen Kaslana',
+    battlesuits: [
+      {
+        suit_name: 'Imayoh Ritual',
+        imgUrl: './assets/hi3-valk/kallen/kallen-imayoh-ritual.png'
+      },
+      {
+        suit_name: 'Südenjäger',
+        imgUrl: './assets/hi3-valk/kallen/kallen-sundenjager.png'
+      },
+      {
+        suit_name: 'Sixth Serenade',
+        imgUrl: './assets/hi3-valk/kallen/kallen-sixth-serenade.png'
+      },
     ]
   }
 ];
