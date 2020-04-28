@@ -38,3 +38,18 @@ body {
   height: 100%;
 }
 
+.btn {
+  width: 10rem;
+  height: 3rem;
+  margin: 2rem 0;
+  // background: rgba(255, 255, 255, .85);
+  background-color: rgba(255, 255, 255, .2);
+  border-radius: 3px;
+  font-size: 1.2rem;
+  color: aliceblue;
+
+  &:hover {
+    background-color: #fff;
+    color: #000;
+  }
+}
