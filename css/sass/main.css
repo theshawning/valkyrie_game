@@ -15,22 +15,30 @@ body {
   align-items: center;
 }
 
+.hero {
+  width: 250px;
+  height: auto;
+  margin-top: .5rem;
+}
+
 .heading {
   font-family: 'Bangers', sans-serif;
   color: #fff;
-  font-size: 3rem;
+  font-size: 3.5rem;
   letter-spacing: 3px;
   text-shadow: 4px 2px 2px black;
-  margin: 2rem 0;
+  position: absolute;
+  top: 125px;
 }
 
 .valk_container {
-  height: 350px;
+  height: 300px;
   width: auto;
   border: thick double #fff;
   border-radius: 15px;
   object-fit: cover;
   background-color: rgba(255, 255, 255, 0.2);
+  margin-top: 2.2rem;
 }
 
 .valk_img {
@@ -40,7 +48,7 @@ body {
 .btn {
   width: 10rem;
   height: 3rem;
-  margin: 2rem 0;
+  margin: 1rem 0;
   background-color: rgba(255, 255, 255, 0.2);
   border-radius: 3px;
   font-size: 1.2rem;
