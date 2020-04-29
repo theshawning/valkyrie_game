@@ -120,5 +120,153 @@ export const valkyries = [
         imgUrl: './assets/hi3-valk/kallen/kallen-sixth-serenade.png'
       },
     ]
-  }
+  },
+  {
+    id: 5,
+    name: 'Kiana Kaslana',
+    battlesuits: [
+      {
+        suit_name: 'White Comet',
+        imgUrl: './assets/hi3-valk/kiana/kiana-white-comet.png'
+      },
+      {
+        suit_name: 'Valkyrie Ranger',
+        imgUrl: './assets/hi3-valk/kiana/kiana-valkyrie-ranger.png'
+      },
+      {
+        suit_name: 'Divine Prayer',
+        imgUrl: './assets/hi3-valk/kiana/kiana-divine-prayer.png'
+      },
+      {
+        suit_name: 'Knight Moonbeam',
+        imgUrl: './assets/hi3-valk/kiana/kiana-knight-moonbeam.png'
+      },
+      {
+        suit_name: 'Herrscher of the Void',
+        imgUrl: './assets/hi3-valk/kiana/god-kiana.png'
+      }
+    ]
+  },
+  {
+    id: 6,
+    name: 'Liliya Olenyeva',
+    battlesuits: [
+      {
+        suit_name: 'Blueberry Blitz',
+        imgUrl: './assets/hi3-valk/liliya/liliya-blueberry-blitz.png'
+      }
+    ]
+  },
+  {
+    id: 7,
+    name: 'Raiden Mei',
+    battlesuits: [
+      {
+        suit_name: 'Crimson Impulse',
+        imgUrl: './assets/hi3-valk/mei/mei-crimson-impulse.png'
+      },
+      {
+        suit_name: 'Valkyrie Bladestrike',
+        imgUrl: './assets/hi3-valk/mei/mei-valkyrie-bladestrike.png'
+      },
+      {
+        suit_name: 'Shadow Dash',
+        imgUrl: './assets/hi3-valk/mei/mei-shadow-dash.png'
+      },
+      {
+        suit_name: 'Lightning Empress',
+        imgUrl: './assets/hi3-valk/mei/mei-lightning-empress.png'
+      }
+    ]
+  },
+  {
+    id: 8,
+    name: 'Rita Rossweisse',
+    battlesuits: [
+      {
+        suit_name: 'Umbral Rose',
+        imgUrl: './assets/hi3-valk/rita/rita-umbral-rose.png'
+      },
+      {
+        suit_name: 'Phantom Iron',
+        imgUrl: './assets/hi3-valk/rita/rita-phantom-iron.png'
+      },
+      {
+        suit_name: 'Argent Knight: Artemis',
+        imgUrl: './assets/hi3-valk/rita/rita-argent-knight-artemis.png'
+      }
+    ]
+  },
+  {
+    id: 9,
+    name: 'Rozaliya Olenyeva',
+    battlesuits: [
+      {
+        suit_name: 'Molotov Cherry',
+        imgUrl: './assets/hi3-valk/rozaliya/rozaliya-molotov-cherry.png'
+      }
+    ]
+  },
+  {
+    id: 10,
+    name: 'Yae Sakura',
+    battlesuits: [
+      {
+        suit_name: 'Gyakushinn Miko',
+        imgUrl: './assets/hi3-valk/sakura/sakura-gyakushinn-miko.png'
+      },
+      {
+        suit_name: 'Flame Sakitama',
+        imgUrl: './assets/hi3-valk/sakura/sakura-flame-sakitama.png'
+      },
+      {
+        suit_name: 'Goushinnso Memento',
+        imgUrl: './assets/hi3-valk/sakura/sakura-goushinnso-memento.png'
+      },
+      {
+        suit_name: 'Darkbolt Jonin',
+        imgUrl: './assets/hi3-valk/sakura/sakura-darkbolt-jonin.png'
+      }
+    ]
+  },
+  {
+    id: 11,
+    name: 'Seele Vollerei',
+    battlesuits: [
+      {
+        suit_name: 'Swallowtail Phantasm',
+        imgUrl: './assets/hi3-valk/seele/seele-swallowtail-phantasm.png'
+      },
+      {
+        suit_name: 'Stygian Nymph',
+        imgUrl: './assets/hi3-valk/seele/seele-stygian-nymph.png'
+      }
+    ]
+  },
+  {
+    id: 12,
+    name: 'Theresa Apocalypse',
+    battlesuits: [
+      {
+        suit_name: 'Valkyrie Pledge',
+        imgUrl: './assets/hi3-valk/theresa/theresa-valkyrie-pledge.png'
+      },
+      {
+        suit_name: 'Sakuno Rondo',
+        imgUrl: './assets/hi3-valk/theresa/theresa-sakuno-rondo.png'
+      },
+      {
+        suit_name: 'Luna Kindred',
+        imgUrl: './assets/hi3-valk/theresa/theresa-luna-kindred.png'
+      },
+      {
+        suit_name: 'Violet Executer',
+        imgUrl: './assets/hi3-valk/theresa/theresa-violet-executer.png'
+      },
+      {
+        suit_name: 'Celestial Hymn',
+        imgUrl: './assets/hi3-valk/theresa/theresa-celestial-hymn.png'
+      }
+    ]
+  },
 ];
